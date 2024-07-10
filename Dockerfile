@@ -1,6 +1,5 @@
 FROM python:3
 
-WORKDIR /data
 
 RUN pip install django==5.0.7
 
